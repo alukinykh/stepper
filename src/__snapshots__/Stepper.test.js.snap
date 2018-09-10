@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders component 1`] = `
+<div
+  className="sc-EHOje dbaRmk"
+>
+  <div
+    className="sc-bdVaJa iwRrDF"
+  >
+    <div
+      className="sc-bwzfXH hZWFyw"
+    >
+      <div
+        className="sc-htpNat hymTUh"
+        size={20}
+      />
+      <div
+        className="sc-bxivhb conwii"
+      >
+        First Item
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-bdVaJa iwRrDF"
+  >
+    <div
+      className="sc-ifAKCX khxicc"
+    />
+    <div
+      className="sc-bwzfXH hZWFyw"
+    >
+      <div
+        className="sc-htpNat hymTUh"
+        size={20}
+      />
+      <div
+        className="sc-bxivhb conwii"
+      >
+        Seconf Item
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-bdVaJa iwRrDF"
+  >
+    <div
+      className="sc-ifAKCX khxicc"
+    />
+    <div
+      className="sc-bwzfXH hZWFyw"
+    >
+      <div
+        className="sc-htpNat hymTUh"
+        size={20}
+      />
+      <div
+        className="sc-bxivhb conwii"
+      >
+        Third Item
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-bdVaJa iwRrDF"
+  >
+    <div
+      className="sc-ifAKCX khxicc"
+    />
+    <div
+      className="sc-bwzfXH hZWFyw"
+    >
+      <div
+        className="sc-htpNat hymTUh"
+        size={20}
+      />
+      <div
+        className="sc-bxivhb conwii"
+      >
+        Forth Item
+      </div>
+    </div>
+  </div>
+  <button
+    className="sc-bZQynM ccclwR"
+    onClick={[Function]}
+  >
+    Next
+  </button>
+</div>
+`;
